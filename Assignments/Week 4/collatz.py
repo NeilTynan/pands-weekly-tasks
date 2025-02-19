@@ -1,13 +1,13 @@
 # python accounts.py
 
+# Enter any positive integer:
 value = int(input())
+
+# Run collatz conjecture programme:
 while value != 1:
     if value % 2 == 0:
-        print(value)
         value /=2
     else:
-        print(value)
         value *=3
         value +=1
-    print(value)
-    
+    print("{num:.0f}".format(num=value), end=" ")
