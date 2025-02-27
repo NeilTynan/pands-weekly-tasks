@@ -1,3 +1,7 @@
 # Hello World
 
-print('Hello, World!')
+def hello_world():
+    print('Hello, World!')
+
+# Print Hello World:
+hello_world()
