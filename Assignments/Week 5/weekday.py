@@ -2,6 +2,9 @@ import datetime
 import calendar
 from datetime import date
 
+# Identify today's date
+today = date.today()
+
 # Weekday/Weekend checker programme
 def check_weekday_or_weekend(today):
     
@@ -14,8 +17,6 @@ def check_weekday_or_weekend(today):
         day_type = 'weekend'
         print(f"Good news, today is the {day_type}")
 
-# Enter in today's date
-today = date.today()
 
 # Check if today is a weekday or if it's the weekend:
 check_weekday_or_weekend(today)

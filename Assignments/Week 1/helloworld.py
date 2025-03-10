@@ -1,5 +1,4 @@
-# Hello World
-
+# Hello World Function
 def hello_world():
     print('Hello, World!')
 
