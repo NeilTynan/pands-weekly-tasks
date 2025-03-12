@@ -1,5 +1,5 @@
 # Enter any positive integer:
-value = int(input())
+value = int(input("Please input a positive interger: "))
 
 # Collatz conjecture function:
 def collatz_conjecture(value):

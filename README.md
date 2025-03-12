@@ -22,6 +22,9 @@ To understand how the workbook has developped to date, please see below a timeli
 - 17/02/2025 - Updated assignment two, so that the result returned always had two decimal placed. External material referenced: https://stackoverflow.com/questions/1995615/how-can-i-format-a-decimal-to-always-show-2-decimal-places. Created *accounts.py*in assignment in assignments folder, as part of the week 3 task. Course material referenced: "pands 3.2 Fun with numbers and strings". External material referenced: https://www.geeksforgeeks.org/python-replace-multiple-characters-at-once/ (how to replace multiple values in a string).
 - 19/02/2025 - Created *collatz.py* in assignments folder, as part of the week 4 task. Course material referenced: "pands 4.1 if else and elif", "pands 4.2 Iteration" and "Lab 4.2". External material referenced: https://stackoverflow.com/questions/21837208/check-if-a-number-is-odd-or-even-in-python (how to check if a number is odd/even).
 - 27/02/2025 - Created *weekday.py* in assignments folder, as part of the week 5 task. External material referenced includes: https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/ (workingout if a day is in the weekend/weekdays) and https://www.geeksforgeeks.org/get-current-date-using-python/ (how to figure out today's date in python). Additionally, reformatted all prior assignments so that they were functions, rather than just lines of code.
+- 
+- https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
+- https://www.w3schools.com/python/ref_list_count.asp
 
 ## Getting help
 
