@@ -4,7 +4,7 @@ This README has been written with [GitHub's documentation on README's](https://d
 
 ## About this Project
 
-This repository contains my weekly assignments for ATU module 4122 -- PROGRAMMING AND SCRIPTING. It contains the project work, problem sets and final project for the course.
+This repository contains my weekly assignments for ATU module 4122 -- PROGRAMMING AND SCRIPTING. It contains the weekly tasks for the module.
 
 ## Use of this Project
 
